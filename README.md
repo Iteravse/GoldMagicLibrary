@@ -1,0 +1,2 @@
+# GoldMagicLibrary
+Gold Magic Repository
