@@ -57,7 +57,5 @@
     Waiting Fork
 #### 构造用户信息完善页面、包括头像、昵称、性别、地址
     Waiting Fork
-#### 构建用户好友列表功能、聊天功能
-    Waiting Fork
 #### 根据[mui好友聊天演示](http://example.com/)构建用户好友列表、聊天、发黄金红包功能
     Waiting Fork
