@@ -60,4 +60,5 @@
 #### 根据[mui好友聊天演示](https://segmentfault.com/a/1190000005729743)构建用户好友列表、聊天、
     Fork ZSJ
 #### 在好友聊天的基础上添加黄金红包功能
-    Fork ZSJ
+    Fork ZSJ
+#### 增加模拟金买卖
