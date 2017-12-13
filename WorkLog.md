@@ -63,3 +63,5 @@
     Fork ZSJ
 #### 增加模拟金买卖
     Waiting Fork
+#### 增加商城购买物品快递地址功能
+    Waiting Fork
