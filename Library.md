@@ -14,4 +14,7 @@
 匹配以x开头以y结尾且中间不夹杂x的任意字符  
 (?<=x)[^x]+(?=y)  
 匹配Html当前网页名  
-(?<=/)[^/]+(?=\.html)  
+[^/]+(?=\.html)  
+## mui 页面跳转卡顿优化方案
+> [关闭跳转动画](http://www.html5plus.org/doc/zh_cn/webview.html#plus.webview.AnimationTypeShow)  
+[定制页面优化，预加载](http://blog.csdn.net/uikoo9/article/details/44676963)
