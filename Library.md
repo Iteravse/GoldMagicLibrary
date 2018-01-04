@@ -23,9 +23,11 @@
 ## 抓包软件Charles
 > [简介](https://www.jianshu.com/p/68684780c1b0)  
 [使用心得](https://www.jianshu.com/p/fdd7c681929c)
-## android
-### 加壳、反编译
+## 加壳、反编译
 > [Android中的Apk的加固(加壳)原理解析和实现](http://blog.csdn.net/jiangwei0910410003/article/details/48415225/)  
+[AndroidStudio混淆编译](http://blog.csdn.net/wo392942362/article/details/52168959)注意添加到App内的build.gradle  
+[AndroidStudio混淆模板](http://blog.csdn.net/a120705230/article/details/51791995)  
+[html混淆指南](http://www.bcty365.com/content-146-2641-1.html)
 ## 移动自动化测试
 > [Appium移动自动化测试](http://www.cnblogs.com/fnng/p/4560298.html)
 ## shn1、md5等强加密算法在线加、解密
@@ -33,3 +35,7 @@
 [ttmd5](http://www.cmd5.com/)
 ## 安全证书
 > [在线生成](https://certificatetools.com/)
+## 随机算法
+> [js随机种子](http://www.jb51.net/article/88848.htm)
+> [编程随机鼻祖，线性同余](http://blog.csdn.net/memray/article/details/8932518)
+> [N种实现js随机种子的方法](http://blog.csdn.net/whitehack/article/details/51901221)
