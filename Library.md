@@ -23,8 +23,13 @@
 ## 抓包软件Charles
 > [简介](https://www.jianshu.com/p/68684780c1b0)  
 [使用心得](https://www.jianshu.com/p/fdd7c681929c)
-## android加壳反编译
-> [Android中的Apk的加固(加壳)原理解析和实现](http://blog.csdn.net/jiangwei0910410003/article/details/48415225/)  
+## android
+### 加壳、反编译
+> [Android中的Apk的加固(加壳)原理解析和实现](http://blog.csdn.net/jiangwei0910410003/article/details/48415225/)  
+## 移动自动化测试
+> [Appium移动自动化测试](http://www.cnblogs.com/fnng/p/4560298.html)
 ## shn1、md5等强加密算法在线加、解密
 > [cmd5](http://www.cmd5.com)  
 [ttmd5](http://www.cmd5.com/)
+## 安全证书
+> [在线生成](https://certificatetools.com/)
