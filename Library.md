@@ -39,4 +39,6 @@
 ## 随机算法
 > [js随机种子](http://www.jb51.net/article/88848.htm)  
 > [编程随机鼻祖，线性同余](http://blog.csdn.net/memray/article/details/8932518)  
-> [N种实现js随机种子的方法](http://blog.csdn.net/whitehack/article/details/51901221)  
+> [N种实现js随机种子的方法](http://blog.csdn.net/whitehack/article/details/51901221)  
+## 巨佬
+[尼古拉斯·赵四](http://www.wjdiankong.cn/)
