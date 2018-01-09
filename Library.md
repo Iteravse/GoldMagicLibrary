@@ -27,6 +27,7 @@
 > [Android中的Apk的加固(加壳)原理解析和实现](http://blog.csdn.net/jiangwei0910410003/article/details/48415225/)  
 [AndroidStudio混淆编译](http://blog.csdn.net/wo392942362/article/details/52168959)注意添加到App内的build.gradle  
 [AndroidStudio混淆模板](http://blog.csdn.net/a120705230/article/details/51791995)  
+[AndroidStudio混淆规范](http://blog.csdn.net/fengyuzhengfan/article/details/43876197)
 [html混淆指南](http://www.bcty365.com/content-146-2641-1.html)  
 [ios逆向工程](https://www.jianshu.com/p/4da57be23275)  
 [微信反编译](http://www.wjdiankong.cn/android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85-%E9%9D%99%E6%80%81%E6%96%B9%E5%BC%8F%E7%A0%B4%E8%A7%A3%E5%BE%AE%E4%BF%A1%E8%8E%B7%E5%8F%96%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%92%8C%E9%80%9A%E8%AE%AF/)  
