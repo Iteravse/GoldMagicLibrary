@@ -48,3 +48,5 @@
 > [N种实现js随机种子的方法](http://blog.csdn.net/whitehack/article/details/51901221)  
 ## 巨佬
 [尼古拉斯·赵四](http://www.wjdiankong.cn/)
+## 注册码
+> [Golang](http://blog.csdn.net/john_f_lau/article/details/78762330)
