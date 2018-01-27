@@ -31,9 +31,9 @@
 [html混淆指南](http://www.bcty365.com/content-146-2641-1.html)  
 [ios逆向工程](https://www.jianshu.com/p/4da57be23275)  
 [微信反编译](http://www.wjdiankong.cn/android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85-%E9%9D%99%E6%80%81%E6%96%B9%E5%BC%8F%E7%A0%B4%E8%A7%A3%E5%BE%AE%E4%BF%A1%E8%8E%B7%E5%8F%96%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%92%8C%E9%80%9A%E8%AE%AF/)  
-[Android5种逆向与反逆向工程攻防战](http://blog.csdn.net/jiangwei0910410003/article/details/51530696)  
-[前端加密](http://blog.csdn.net/feibabeibei_beibei/article/details/78989309)  
-[加密工具](http://blog.sina.com.cn/s/blog_49e3daed01008m5t.html)  
+[Android5种逆向与反逆向工程攻防战](http://blog.csdn.net/jiangwei0910410003/article/details/51530696)  
+[前端加密](http://blog.csdn.net/feibabeibei_beibei/article/details/78989309)  
+[加密工具](http://blog.sina.com.cn/s/blog_49e3daed01008m5t.html)  
 ## 安全传输接口
 > [安全调用接口方式](http://ask.dcloud.net.cn/article/157)
 ## 移动自动化测试
