@@ -15,6 +15,10 @@
 (?<=x)[^x]+(?=y)  
 匹配Html当前网页名  
 [^/]+(?=\.html)  
+匹配每第4个空格
+( \S*? \S*? \S*?)1?   
+并替换为逗号  
+\1，  
 # H5App
 ## mui 页面跳转卡顿优化方案
 > [关闭跳转动画](http://www.html5plus.org/doc/zh_cn/webview.html#plus.webview.AnimationTypeShow)  
